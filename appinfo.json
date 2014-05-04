@@ -1,0 +1,31 @@
+{
+  "uuid": "ffc5e462-18ea-4ffa-82d3-375ac0897c57",
+  "shortName": "Scratch",
+  "longName": "Scratch",
+  "companyName": "Kai H.",
+  "versionCode": 2,
+  "versionLabel": "1.1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_25",
+        "file": "fonts/polobrush.ttf"
+      },
+      {
+        "type": "font",
+        "name": "FONT_55",
+        "file": "fonts/polobrush.ttf"
+      }
+    ]
+  }
+}
